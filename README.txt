@@ -1,13 +1,6 @@
 Title: Linear Dimensionality Reduction via a Heteroscedastic Extension of LDA: The Chernoff Criterion
 
 Name: Karthik Naveen Tagarampudi
-UID: U01093541
-W number: w312kxt
-
-Course name: Algorithmns for Biological Data.
-
-Instructions to execute the project file.
-
 
 1)MATLAB code files will be under "MatlabCode" folder -> techniques.
 2)PyTorch code files will be under "PyTorchCode" folder.
